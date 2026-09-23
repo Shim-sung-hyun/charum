@@ -1,0 +1,2432 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KCFXSSL');</script>
+  <!-- End Google Tag Manager -->
+  <!-- Global site tag (gtag.js) - Google Ads: 719058285 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-392507179"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'AW-392507179');
+  </script>
+  <!-- Event snippet for 결제 시작 conversion page -->
+  <script>
+    gtag('event', 'conversion', {
+      'send_to': 'AW-392507179/EVbBCP3mw_4BEKvelLsB'
+    });
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26185228-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-26185228-1');
+  </script>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-
+1CJRKQ0RL1"></script>
+  <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-1CJRKQ0RL1'); </script>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta charset="UTF-8" />
+  <meta name="description"
+    content="도메인 등록부터 호스팅, 인증서와 보안 솔루션 부가서비스까지. 포괄적인 웹 서비스를 제공하는 Dotnamekorea 입니다." />
+  <meta name="keywords"
+    content="도메인 등록부터 호스팅, 인증서와 보안 솔루션 부가서비스까지. 포괄적인 웹 서비스를 제공하는 Dotnamekorea 입니다." />
+    <meta property="og:description"
+    content="도메인 등록부터 호스팅, 인증서와 보안 솔루션 부가서비스까지. 포괄적인 웹 서비스를 제공하는 Dotnamekorea 입니다.">
+  <meta name="google-site-verification" content="zr4ob_fYHHppd0M2viHWIQwC5xMvlPeuN30S2ylX8IA" />
+  <meta name="og:image" content="/assets/images/dot_thumb.jpg" />
+
+  <title>
+    🥇 닷네임코리아 - 도메인, 호스팅, 보안 한국형 매니지먼트 웹서비스   </title>
+  <!--  <base href="https://www.dotname.co.kr">-->
+  <link rel="stylesheet" href="/assets/styles/index_new.css" />
+  <link href="/assets/styles/base.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/styles/jalert.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/styles/ba_style.css" rel="stylesheet" type="text/css" />
+  <link href="/assets/styles/SubDesign.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="/assets/images/common/favicon.ico" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.2/css/swiper.min.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+  <link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css'
+    rel='stylesheet' type='text/css' />
+  <style type="text/css">@font-face {font-family:'Montserrat';font-style:normal;font-weight:500;src:url(/cf-fonts/s/montserrat/5.2.8/vietnamese/500/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:500;src:url(/cf-fonts/s/montserrat/5.2.8/latin/500/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:500;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic/500/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:500;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic-ext/500/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:500;src:url(/cf-fonts/s/montserrat/5.2.8/latin-ext/500/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:600;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic/600/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:600;src:url(/cf-fonts/s/montserrat/5.2.8/latin-ext/600/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:600;src:url(/cf-fonts/s/montserrat/5.2.8/latin/600/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:600;src:url(/cf-fonts/s/montserrat/5.2.8/vietnamese/600/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:600;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic-ext/600/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:700;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic/700/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:700;src:url(/cf-fonts/s/montserrat/5.2.8/latin-ext/700/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:700;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic-ext/700/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:700;src:url(/cf-fonts/s/montserrat/5.2.8/vietnamese/700/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:700;src:url(/cf-fonts/s/montserrat/5.2.8/latin/700/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:800;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic/800/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:800;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic-ext/800/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:800;src:url(/cf-fonts/s/montserrat/5.2.8/vietnamese/800/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:800;src:url(/cf-fonts/s/montserrat/5.2.8/latin-ext/800/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:800;src:url(/cf-fonts/s/montserrat/5.2.8/latin/800/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:900;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic-ext/900/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:900;src:url(/cf-fonts/s/montserrat/5.2.8/latin/900/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:900;src:url(/cf-fonts/s/montserrat/5.2.8/latin-ext/900/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:900;src:url(/cf-fonts/s/montserrat/5.2.8/cyrillic/900/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Montserrat';font-style:normal;font-weight:900;src:url(/cf-fonts/s/montserrat/5.2.8/vietnamese/900/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/cyrillic-ext/400/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/math/400/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/greek-ext/400/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/latin-ext/400/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/vietnamese/400/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/hebrew/400/normal.woff2);unicode-range:U+0307-0308,U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/greek/400/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/symbols/400/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Open Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/s/open-sans/5.2.7/cyrillic/400/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}</style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/themify-icons/0.1.2/css/themify-icons.css" />
+  <link rel="canonical" href="https://www.dotname.co.kr/">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dotname.co.kr/">
+
+  <script src="https://www.dotname.co.kr/assets/scripts/jquery-1.10.2.min.js"></script>
+  <script src="https://www.dotname.co.kr/assets/scripts/slowscript.js"></script>
+  <script src="https://www.dotname.co.kr/assets/scripts/jquery-activeurl.js"></script>
+  <script src="https://www.dotname.co.kr/assets/scripts/jquery.flexslider-min.js"></script>
+  <script src="https://www.dotname.co.kr/assets/scripts/slides.min.jquery.js"></script>
+  <script src="https://www.dotname.co.kr/assets/scripts/common.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.2/js/swiper.min.js"></script>
+
+  <style>
+    #container,#header {width:1200px;}
+    div#body{width:100%;}
+    #site_feedback_area {display: none;}
+    #event_right_banner {display:none !important}
+    .datawrap {height:auto; display: flex; flex-wrap: wrap; justify-content: flex-start;}
+    .datawrap .data, .datawrap .data_on {width:245px;}
+    div.contents, #body div.con_sub,.renew_domain_search, .renew_domain_search_2, .ContentsBox,.service,.domain_search, .domain_search_2{width:100% !important;}
+    .google_seal img {right:-624px!important ;}
+    div.new_leftmenu {font-size:14px;}
+
+    .domain_search_2 #domain {font-size: 20px; width:50%; height: 32px; line-height: 1.5;}
+    .table_style1 table { width:95% !important}
+  </style>
+
+
+</head>
+
+<body><a href="https://www.dotname.co.kr/cdn-cgi/content?id=UUxZsiDPz2fW1jHzRgYQ57Z4vFsrivf0uLTg2qQj_io-1790126258.174119-1.2.1.1-.UTHbH9aC.iXbmCSKnYiNcXx_QPK3W7daoiUIHy55aMNfagdQN0t7oRF0RgTwp1r" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"></a>
+  <!--<div class="ppup_wrap" style="position:fixed; width:100%; height:100%; background: rgba(0,0,0,.3); display:none; cursor:pointer; z-index:9998;">
+		<img src="assets/images/idc/custom/sec_all_p.jpg" alt="" width="800px" height="auto" style="position:absolute; left:50%; top:50%; transform: translate(-50%,-50%);z-index:9999;" class="sec_all_p">
+	</div>-->
+  <div class="wrap">
+    <!--구글 스티커-->
+    <!-- <div style="position:absolute; top:0; left:0;z-index:9999">
+      <span>
+        <a href="/customer/event/2018/181204_google_landing">
+          <img src="https://www.dotname.co.kr/assets/images/main_google_logo.png" style="max-width: 75%; width: 100%; height: auto;">
+        </a>
+      </span>
+    </div> -->
+    <!-- family site banner -->
+    <!-- <div class="top_banner">
+      <div class="container2">
+        <ul>
+          <li>
+            <a href="http://www.sitenow.co.kr/?">
+              <img src="https://www.dotname.co.kr/assets/images/common/headertab_site.png" alt="사이트나우" />
+            </a>
+          </li>
+          <li>
+            <a href="http://www.serverworks.pro/">
+              <img src="https://www.dotname.co.kr/assets/images/common/headertab_serverworks.png" alt="서버웍스" />
+            </a>
+          </li>
+          <li class="gvc">
+            <a href="http://www.gvc.or.kr/">
+              <img src="https://www.dotname.co.kr/assets/images/common/headertab_gvc.png" alt="GVC" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.anycert.co.kr/">
+              <img src="https://www.dotname.co.kr/assets/images/common/headertab_any.png" alt="애니서트" />
+            </a>
+          </li>
+          <li class="storenow">
+            <a href="http://www.storenow.co.kr/">
+              <img src="https://www.dotname.co.kr/assets/images/common/headertab_store.png" alt="스토어나우" />
+            </a>
+          </li>
+          <li class="trustVpn">
+            <a href="http://www.trustvpn.co.kr/">
+              <img src="https://www.dotname.co.kr/assets/images/common/headertab_vpn.png" alt="TrustVPN" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <p class="top_banner_close_btn">
+        <img src="https://www.dotname.co.kr/assets/images/common/btn_new_close.gif" alt="close" class="top_banner_close" />
+      </p>
+    </div> -->
+
+    <header>
+      <div class="admin_header">
+        <div class="container2">
+          <p>
+            <a href="https://www.dotname.co.kr/customer/event/2016/160526_hosting_landing_update">
+              최강 보안 닷네임코리아              <span class="c_p">
+                호스팅의 장점                <em class="c_p">!</em>
+                <i class="fas fa-long-arrow-alt-right c_p" style="margin-left:5px;" aria-hidden="true"></i>
+              </span>
+            </a>
+          </p>
+          <div class="admin_d">
+            <div class="new_login">
+              <div class="htg">
+                <!-- <a href="/customer/event/2018/180914_reward" target="_blank" style="display:none;" class="Mr2">
+                  <img src="https://www.dotname.co.kr/assets/images/common/180914_reward_top_banner.png" alt="최저가 보상제" />
+                </a>
+                <a class="btn btn_point" href="/member/point#point_guide" style="display:none;">
+                  가입만해도 포인트!
+                </a>
+                <a class="btn btn_point" href="/customer/event/list" style="display:none;">
+                  진행중인 이벤트!
+                </a> -->
+                <a href="/customer/ticket" target="_blank">
+                  <i class="fas fa-comment-dots" aria-hidden="true"></i>
+                  1:1 문의
+                </a>
+                <span class="bar">
+                  |
+                </span>
+                                <a href="/quick_a">
+                  <i class="fa fa-cube" aria-hidden="true"></i>
+                  고객센터
+                </a>
+                              </div>
+              <!-- 로그인 전 -->
+                            <a href="#" class="l_prev">
+                <i class="fa fa-user" aria-hidden="true" style="margin-right:5px; font-size:12px;"></i>
+                로그인
+                <i class="fas fa-sort-down" aria-hidden="true"
+                  style="font-size:13px; margin-left:5px; position: absolute; right:14px; top:6px; z-index:15"
+                  id="down"></i>
+              </a>
+                          </div>
+            <div class="more">
+              <img src="https://www.dotname.co.kr/assets/images/common/btn_more_open.png" alt="전체 메뉴 보기" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header">
+        <div class="container2">
+          <a href="/">
+            <img src="https://www.dotname.co.kr/assets/images/common/new_logo.svg" border="0" alt="DotnameKorea" id="logo" height="35px" />
+          </a>
+          <nav>
+            <ul class="headmenu">
+                            <li>
+                <a class="main_head_menu" href="/domain/new/search">
+                  도메인/메일                </a>
+                <div class="sub_menu">
+                  <div class="container2">
+                    <div class="s_m_h">
+                      <h2>
+                        도메인/메일                      </h2>
+                    </div>
+                    <ul class="s_m_c">
+                      <li>
+                        <p>
+                          원하는 도메인을 등록하여 홈페이지나</br> 블로그 등에 연결할 수 있습니다.</br>또한 도메인이 있다면 나만의 메일주소를</br>생성하여 사용할 수 있습니다.                        </p>
+                      </li>
+                                            <li>
+                        <ul>
+                                                    <li class="main_menu" rel="domain8">
+                            <a href="/domain/transfer/search" target="_self">
+                              도메인 기관이전                                                            <img style="margin-bottom:3px;" src="https://www.dotname.co.kr/assets/images/menu_icon_hot.gif" />
+                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain2">
+                            <a href="/domain/new/search" target="_self">
+                              도메인 등록                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain12">
+                            <a href="http://domain.dotname.co.kr" target="_self">
+                              도메인 관리                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain7">
+                            <a href="/domain/renew/search" target="_self">
+                              로그인 없이 기간연장                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain9">
+                            <a href="/domain/optional/" target="_self">
+                              도메인 신청 혜택                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain10">
+                            <a href="/domain/manual/name_change" target="_self">
+                              도메인 매뉴얼                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain79">
+                            <a href="/domain/estimate" target="_self">
+                              도메인 견적 신청                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain11">
+                            <a href="/domain/reservation" target="_self">
+                              도메인 예약/대행                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain375">
+                            <a href="/domain/auction/price" target="_self">
+                              도메인 경매                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain409">
+                            <a href="/domain/group_ware/about" target="_self">
+                              메일 + 그룹웨어                                                           </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                      <li>
+                        <ul>
+                                                    <li class="main_menu" rel="domain467">
+                            <a href="/domain/naver/nb_domain" target="_self">
+                              네이버블로그 도메인                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain452">
+                            <a href="/domain/mailserver/zimbra" target="_self">
+                              Zimbra 단독서버 메일 호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain78">
+                            <a href="/domain/mail/product_webmail?htype=webmail" target="_self">
+                              기업 메일호스팅 + MS 오피스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain313">
+                            <a href="/domain/securemail/product" target="_self">
+                              보안형 메일 + MS 오피스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="domain">
+                            <a href="" target="">
+                                                                                        </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                                            <li>
+                                                <a href="https://www.dotname.co.kr/domain/securemail/product">
+                          <img src="/assets/images/group_ware/221208_security.jpg" style="height: 90%" />
+                        </a>
+                        <p>
+                          <a href="/domain/securemail/demo">웹메일 체험하기</a>  |  <a href="/domain/mail/demo_webmail?htype=webmail">메일데모 미리보기</a>                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+                            <li>
+                <a class="main_head_menu" href="/hosting/web/product">
+                  호스팅                </a>
+                <div class="sub_menu">
+                  <div class="container2">
+                    <div class="s_m_h">
+                      <h2>
+                        호스팅                      </h2>
+                    </div>
+                    <ul class="s_m_c">
+                      <li>
+                        <p>
+                          서버의 공간을 임대하는 서비스입니다.<br>홈페이지 운영/관리에 필요한 모든 것을<br>제공받으세요.                        </p>
+                      </li>
+                                            <li>
+                        <ul>
+                                                    <li class="main_menu" rel="hosting14">
+                            <a href="/hosting/web/product" target="_self">
+                              웹호스팅(PHP/JSP/ASP/NodeJS)                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting479">
+                            <a href="/hosting/nocode/product" target="_self">
+                              Code Free Hosting                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting407">
+                            <a href="/hosting/web/template" target="_self">
+                              호스팅 고객 무료  템플릿                                                           </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting80">
+                            <a href="/hosting/sitenow/sitebuilder" target="_self">
+                              사이트빌더호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting20">
+                            <a href="/hosting/sitenow/product" target="_self">
+                              워드프레스호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting336">
+                            <a href="/hosting/sitenow/pagebuilder" target="_self">
+                              페이지빌더호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting415">
+                            <a href="/hosting/weebly/index" target="_self">
+                              <img src=/assets/images/hosting/weebly/weebly_menu_tit.png><br>웹사이트+쇼핑몰빌더                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting19">
+                            <a href="/hosting/sitenow/wordpress_shopping" target="_self">
+                              워드프레스 쇼핑몰호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting75">
+                            <a href="/hosting/ahosting/product" target="_self">
+                              웹에이전시용호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting429">
+                            <a href="/hosting/mssql/product" target="_self">
+                              MS SQL 호스팅                                                          </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                      <li>
+                        <ul>
+                                                    <li class="main_menu" rel="hosting314">
+                            <a href="https://www.dotname.co.kr/hosting/renew/search" target="_self">
+                              로그인 없이 기간연장                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting63">
+                            <a href="/hosting/free/webhosting" target="_self">
+                              무료호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting474">
+                            <a href="/hosting/cs/cs" target="_self">
+                              고객지원 티켓 호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting15">
+                            <a href="/hosting/image/product" target="_self">
+                              이미지호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting21">
+                            <a href="/hosting/db/product" target="_self">
+                              DB호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting23">
+                            <a href="http://hosting.dotname.co.kr" target="_self">
+                              호스팅 관리                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting22">
+                            <a href="/hosting/manual" target="_self">
+                              호스팅 매뉴얼                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting76">
+                            <a href="/hosting/estimate" target="_self">
+                              호스팅 견적서 신청                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting463">
+                            <a href="/hosting/dnshosting/220216_dnshosting_page" target="_self">
+                              사내 네임서버 호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="hosting">
+                            <a href="" target="">
+                                                                                        </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                                            <li>
+                                                <a href="https://www.dotname.co.kr/hosting/web/product#none">
+                          <img src="/assets/images/group_ware/221208_web.jpg" style="height: 90%" />
+                        </a>
+                        <p>
+                           닷네임 호스팅 혜택                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+                            <li>
+                <a class="main_head_menu" href="/idc/app/product">
+                  클라우드서버/IDC                </a>
+                <div class="sub_menu">
+                  <div class="container2">
+                    <div class="s_m_h">
+                      <h2>
+                        클라우드서버/IDC                      </h2>
+                    </div>
+                    <ul class="s_m_c">
+                      <li>
+                        <p>
+                          최고 사양의 서버를 저렴한 가격으로<br>제공합니다. 코로케이션을 업계<br>최저가로 이용해보세요.                        </p>
+                      </li>
+                                            <li>
+                        <ul>
+                                                    <li class="main_menu" rel="idc70">
+                            <a href="/idc/private/product" target="_self">
+                              클라우드 VPS 서버                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc465">
+                            <a href="/idc/custom/customserver" target="_self">
+                              PHP /JSP/ Node.js/ Python                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc332">
+                            <a href="/idc/app/product" target="_self">
+                              APP 클라우드 서버호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc30">
+                            <a href="/idc/amazon_cloud/product" target="_self">
+                              아마존 클라우드 컴퓨팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc404">
+                            <a href="/idc/aws/awsfreesupport" target="_self">
+                              AWS 12배 빠르게                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc457">
+                            <a href="/idc/aws_azure/210628_azure_aws" target="_self">
+                              AWS & Azure 할인관                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc327">
+                            <a href="/idc/apply_server?tab=2" target="_self">
+                              1분 설치 서버                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc25">
+                            <a href="/idc/estimation/info" target="_self">
+                              서버호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc27">
+                            <a href="/idc/option" target="_self">
+                              서버 호스팅 혜택                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc411">
+                            <a href="/idc/desktop/info" target="_self">
+                              윈도우 데스크탑 호스팅                                                          </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                      <li>
+                        <ul>
+                                                    <li class="main_menu" rel="idc406">
+                            <a href="/idc/mailserver/mailserverhosting" target="_self">
+                              단독 메일 서버 호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc468">
+                            <a href="/idc/wikihosting/wikihosting" target="_self">
+                              WIKI 호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc413">
+                            <a href="/idc/microsoft/info" target="_self">
+                              Microsoft 소프트웨어 서버임대                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc417">
+                            <a href="/idc/nonstop_sv/nonstop_sv" target="_self">
+                              2배 성능 무중단 서버 이전                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc195">
+                            <a href="/idc/outsourcing/" target="_self">
+                              서버 네트워크 관리 대행                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc28">
+                            <a href="/idc/colocation" target="_self">
+                              코로케이션                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc71">
+                            <a href="/idc/fastnow" target="_self">
+                              웹사이트 2배 가속 속도개선                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc419">
+                            <a href="/idc/enterprize" target="_self">
+                              LG U+기업인터넷                                                           </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc418">
+                            <a href="/idc/ip" target="_self">
+                              LG U+기업전용선비즈넷+IP주소                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="idc">
+                            <a href="" target="">
+                                                                                        </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                                            <li>
+                                                <a href="https://www.dotname.co.kr/customer/event/2018/180516_vps-renewal">
+                          <img src="/assets/images/common/190628_vps_210.png" style="height: 90%" />
+                        </a>
+                        <p>
+                          VPS 초고속 보안 클라우드 서버 출시                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+                            <li>
+                <a class="main_head_menu" href="/ssl/cdn">
+                  보안/백신/SSL                </a>
+                <div class="sub_menu">
+                  <div class="container2">
+                    <div class="s_m_h">
+                      <h2>
+                        보안/백신/SSL                      </h2>
+                    </div>
+                    <ul class="s_m_c">
+                      <li>
+                        <p>
+                          어렵고 복잡한 보안 시스템 구축을<br>원스톱으로 해결하세요.<br>사내 전문가 없이 24시간 365일<br>실시간으로 관리/대응이 가능합니다.                        </p>
+                      </li>
+                                            <li>
+                        <ul>
+                                                    <li class="main_menu" rel="ssl33">
+                            <a href="/ssl/cdn" target="_self">
+                              DDoS 방어/CDN                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl72">
+                            <a href="/ssl/cloud_protection" target="_self">
+                              통합 보안 호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl421">
+                            <a href="/ssl/sophos_firewall" target="_self">
+                              글로벌 통합보안 <br>방화벽 Sophos                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl32">
+                            <a href="/ssl/db_encrypt" target="_self">
+                              DB 암호화                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl460">
+                            <a href="/ssl/ransomware_package" target="_self">
+                              랜섬웨어 2중 완벽 백업 패키지                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl356">
+                            <a href="/ssl/web_vaccine" target="_self">
+                              웹방화벽+서버백신                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl37">
+                            <a href="/ssl/guardrock_utm" target="_self">
+                              UTM 통합보안방화벽                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl428">
+                            <a href="/customer/event/2020/200729_secure" target="_self">
+                              NO.1 안티바이러스 백신                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl349">
+                            <a href="/ssl/malwarebytes/index" target="_self">
+                              Malwarebytes 지능형공격방어                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl35">
+                            <a href="https://www.anycert.co.kr/ssl/ssl" target="_blank">
+                              SSL 인증 <i class='fas fa-external-link-alt'></i>                                                          </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                      <li>
+                        <ul>
+                                                    <li class="main_menu" rel="ssl36">
+                            <a href="https://www.anycert.co.kr/codesign/intro_code" target="_blank">
+                              ActiveX 인증 <i class='fas fa-external-link-alt'></i>                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl425">
+                            <a href="/ssl/sitelock" target="_self">
+                              SiteLock <br>멀웨어 탐지기                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl301">
+                            <a href="/ssl/remote_server" target="_self">
+                              원격 서버/PC 점검                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl398">
+                            <a href="/ssl/neverspam" target="_self">
+                              이메일 통합 보안<br>스팸차단                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl427">
+                            <a href="/ssl/remotepc_access" target="_self">
+                              PC 원격접속                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl466">
+                            <a href="/ssl/comcheck" target="_self">
+                              윈도우PC 최적화서비스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl430">
+                            <a href="/ssl/video_con" target="_self">
+                              화상회의 솔루션                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl38">
+                            <a href="http://www.trustvpn.co.kr/" target="_blank">
+                              VPN 전용회선 <i class='fas fa-external-link-alt'></i>                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl84">
+                            <a href="/ssl/hw_recovery" target="_self">
+                              데이터 복구                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="ssl">
+                            <a href="" target="">
+                                                                                        </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                                            <li>
+                                                <a href="/customer/event/2020/200729_secure">
+                          <img src="/assets/images/event/2020/secure/2000730_secure_210.jpg" style="height: 90%" />
+                        </a>
+                        <p>
+                          보안강화 안티바이러스 최저가로!                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+                            <li>
+                <a class="main_head_menu" href="/faxoffice/office/office_renew">
+                  문자/팩스/MS오피스                </a>
+                <div class="sub_menu">
+                  <div class="container2">
+                    <div class="s_m_h">
+                      <h2>
+                        문자/팩스/MS오피스                      </h2>
+                    </div>
+                    <ul class="s_m_c">
+                      <li>
+                        <p>
+                          전문 회계법인이 지원하는 세자기장,<br>MS 공식 클라우드 파트너의 Office365,<br>그룹 메신저/SMS/웹팩스/법인설립 등<br>검증된 기업 솔루션을 제공합니다.                        </p>
+                      </li>
+                                            <li>
+                        <ul>
+                                                    <li class="main_menu" rel="faxoffice480">
+                            <a href="/faxoffice/chatgpt/" target="_self">
+                              CHATGPT, GEMINI 구독                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice459">
+                            <a href="/faxoffice/kakao/product" target="_self">
+                              카카오 비즈메세지                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice68">
+                            <a href="/faxoffice/sms/" target="_self">
+                              SMS호스팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice39">
+                            <a href="/faxoffice/webfax/" target="_self">
+                              웹팩스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice389">
+                            <a href="http://thebillpro.co.kr" target="_blank">
+                              CMS 자동이체 <i class='fas fa-external-link-alt'></i>                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice462">
+                            <a href="/customer/event/2022/220211_pgservice_page" target="_self">
+                              PG & CMS 결제서비스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice453">
+                            <a href="/faxoffice/smart_delivery/service" target="_self">
+                              스마트 방문 택배 서비스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice481">
+                            <a href="https://moveit.kr " target="_blank">
+                              편의점 택배 예약 서비스                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice391">
+                            <a href="https://www.anycert.co.kr/corp/ipin" target="_blank">
+                              실명인증 솔루션 <i class='fas fa-external-link-alt'></i>                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice405">
+                            <a href="/faxoffice/gsuite/gsuite" target="_self">
+                              업무용 Gmail+MS 오피스+Notion                                                          </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                      <li>
+                        <ul>
+                                                    <li class="main_menu" rel="faxoffice414">
+                            <a href="/faxoffice/office/office_renew" target="_self">
+                              MS Office+Exchange Email                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice478">
+                            <a href="https://www.dotname.co.kr/faxoffice/cad/cad_info" target="_self">
+                              오토캐드 / 3D Max / 마야 / 인벤터                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="faxoffice">
+                            <a href="" target="">
+                                                                                        </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                                            <li>
+                                                <a href="https://www.dotname.co.kr/customer/event/2018/181204_google_landing">
+                          <img src="/assets/images/event/2018/181204_landing_banner.jpg" style="height: 90%" />
+                        </a>
+                        <p>
+                          Google Cloud 스타트업 프로그램                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+                            <li>
+                <a class="main_head_menu" href="/homepage/estimation">
+                  디자인/홈페이지                </a>
+                <div class="sub_menu">
+                  <div class="container2">
+                    <div class="s_m_h">
+                      <h2>
+                        디자인/홈페이지                      </h2>
+                    </div>
+                    <ul class="s_m_c">
+                      <li>
+                        <p>
+                          차별화된 브랜드 감성, 합리적인 가격,<br>체계적인 제작 시스템으로 홈페이지와<br>영상을 제작/관리합니다.                        </p>
+                      </li>
+                                            <li>
+                        <ul>
+                                                    <li class="main_menu" rel="homepage476">
+                            <a href="/faxoffice/adobe_cloud/adobe_cloud_price" target="_self">
+                              어도비 포토샵/일러스트                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage393">
+                            <a href="/homepage/bici/" target="_self">
+                              디자인 의뢰                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage46">
+                            <a href="/homepage/agency/about" target="_self">
+                              홈페이지 제작                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage81">
+                            <a href="/homepage/agency/maintenance" target="_self">
+                              홈페이지 유지보수                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage45">
+                            <a href="/homepage/estimation" target="_self">
+                              무료상담                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage41">
+                            <a href="/homepage/marketing/marketing/" target="_self">
+                              마케팅 컨설팅                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage360">
+                            <a href="/homepage/voucher/production" target="_self">
+                              정부지원사업                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage410">
+                            <a href="/homepage/youtube/index" target="_self">
+                              Youtube 프리미엄 / Apple TV                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage412">
+                            <a href="/homepage/netflix/info" target="_self">
+                              Netflix                                                          </a>
+                          </li>
+                                                    <li class="main_menu" rel="homepage387">
+                            <a href="https://dotname.freshdesk.com/support/home" target="_blank">
+                              문제해결 지식저장소 <i class='fas fa-external-link-alt'></i>                                                          </a>
+                          </li>
+                                                  </ul>
+                      </li>
+                                            <li>
+                                                <a href="/customer/event/2016/160526_hosting_landing_update">
+                          <img src="/assets/images/common/220826_hosting_mainbn.jpg" style="height: 90%" />
+                        </a>
+                        <p>
+                          차별화된 강점 닷네임코리아 호스팅                        </p>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+                          </ul>
+          </nav>
+        </div>
+      </div>
+      <div class="imgmodal">
+        <img src="" id="imgid" />
+      </div>
+
+      <div class="more_m">
+        <div class="container2">
+          <div class="more_m_h">
+            <a href="/" class="Fl_l">
+              <img src="https://www.dotname.co.kr/assets/images/common/new_logo.gif" border="0" alt="DotnameKorea" id="logo" />
+            </a>
+            <p>
+              기쁨이 되는 기업, 사랑을 나누는 기업, 닷네임코리아<em>!</em>&nbsp;
+            </p>
+            <img src="https://www.dotname.co.kr/assets/images/common/btn_more_colse.png" alt="close" id="close" class="more_m_close" />
+          </div>
+          <ul class="more_m_c">
+                        <li>
+              <ul>
+                <li class="more_m_c_title">
+                  도메인/메일                </li>
+                                                <li>
+                  <a href="/domain/transfer/search" target="_self">
+                    도메인 기관이전                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/new/search" target="_self">
+                    도메인 등록                                        <img style="margin-bottom:3px;" src="https://www.dotname.co.kr/assets/images/common/menu_e_icon.png" />
+                                      </a>
+                </li>
+                                <li>
+                  <a href="http://domain.dotname.co.kr" target="_self">
+                    도메인 관리                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/renew/search" target="_self">
+                    로그인 없이 기간연장                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/optional/" target="_self">
+                    도메인 신청 혜택                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/manual/name_change" target="_self">
+                    도메인 매뉴얼                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/estimate" target="_self">
+                    도메인 견적 신청                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/reservation" target="_self">
+                    도메인 예약/대행                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/auction/price" target="_self">
+                    도메인 경매                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/group_ware/about" target="_self">
+                    메일 + 그룹웨어                                       </a>
+                </li>
+                                <li>
+                  <a href="/domain/naver/nb_domain" target="_self">
+                    네이버블로그 도메인                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/mailserver/zimbra" target="_self">
+                    Zimbra 단독서버 메일 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/mail/product_webmail?htype=webmail" target="_self">
+                    기업 메일호스팅 + MS 오피스                                      </a>
+                </li>
+                                <li>
+                  <a href="/domain/securemail/product" target="_self">
+                    보안형 메일 + MS 오피스                                      </a>
+                </li>
+                                              </ul>
+            </li>
+                        <li>
+              <ul>
+                <li class="more_m_c_title">
+                  호스팅                </li>
+                                                <li>
+                  <a href="/hosting/web/product" target="_self">
+                    웹호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/nocode/product" target="_self">
+                    Code Free Hosting                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/web/template" target="_self">
+                    호스팅 고객 무료  템플릿                                       </a>
+                </li>
+                                <li>
+                  <a href="/hosting/sitenow/sitebuilder" target="_self">
+                    사이트빌더호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/sitenow/product" target="_self">
+                    워드프레스호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/sitenow/pagebuilder" target="_self">
+                    페이지빌더호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/weebly/index" target="_self">
+                    <img src=/assets/images/hosting/weebly/weebly_menu_tit.png><br>웹사이트+쇼핑몰빌더                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/sitenow/wordpress_shopping" target="_self">
+                    워드프레스 쇼핑몰호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/ahosting/product" target="_self">
+                    웹에이전시용호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/mssql/product" target="_self">
+                    MS SQL 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="https://www.dotname.co.kr/hosting/renew/search" target="_self">
+                    로그인 없이 기간연장                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/free/webhosting" target="_self">
+                    무료호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/cs/cs" target="_self">
+                    고객지원 티켓 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/image/product" target="_self">
+                    이미지호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/db/product" target="_self">
+                    DB호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="http://hosting.dotname.co.kr" target="_self">
+                    호스팅 관리                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/manual" target="_self">
+                    호스팅 매뉴얼                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/estimate" target="_self">
+                    호스팅 견적서 신청                                      </a>
+                </li>
+                                <li>
+                  <a href="/hosting/dnshosting/220216_dnshosting_page" target="_self">
+                    사내 네임서버 호스팅                                      </a>
+                </li>
+                                              </ul>
+            </li>
+                        <li>
+              <ul>
+                <li class="more_m_c_title">
+                  클라우드서버/IDC                </li>
+                                                <li>
+                  <a href="/idc/private/product" target="_self">
+                    클라우드 VPS 서버                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/custom/customserver" target="_self">
+                    PHP /JSP/ Node.js/ Python                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/app/product" target="_self">
+                    APP 클라우드 서버호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/amazon_cloud/product" target="_self">
+                    아마존 클라우드 컴퓨팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/aws/awsfreesupport" target="_self">
+                    AWS 12배 빠르게                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/aws_azure/210628_azure_aws" target="_self">
+                    AWS & Azure 할인관                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/apply_server?tab=2" target="_self">
+                    1분 설치 서버                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/estimation/info" target="_self">
+                    서버호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/option" target="_self">
+                                                          </a>
+                </li>
+                                <li>
+                  <a href="/idc/desktop/info" target="_self">
+                    윈도우 데스크탑 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/mailserver/mailserverhosting" target="_self">
+                    단독 메일 서버 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/wikihosting/wikihosting" target="_self">
+                    WIKI 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/microsoft/info" target="_self">
+                    Microsoft 소프트웨어 서버임대                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/nonstop_sv/nonstop_sv" target="_self">
+                    2배 성능 무중단 서버 이전                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/outsourcing/" target="_self">
+                    서버 네트워크 관리 대행                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/colocation" target="_self">
+                    코로케이션                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/fastnow" target="_self">
+                    웹사이트 2배 가속 속도개선                                      </a>
+                </li>
+                                <li>
+                  <a href="/idc/enterprize" target="_self">
+                    LG U+기업인터넷                                       </a>
+                </li>
+                                <li>
+                  <a href="/idc/ip" target="_self">
+                    LG U+기업전용선비즈넷+IP주소                                      </a>
+                </li>
+                                              </ul>
+            </li>
+                        <li>
+              <ul>
+                <li class="more_m_c_title">
+                  보안/백신/SSL                </li>
+                                                <li>
+                  <a href="/ssl/cdn" target="_self">
+                    DDoS 방어/CDN                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/cloud_protection" target="_self">
+                    통합 보안 호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/sophos_firewall" target="_self">
+                    글로벌 통합보안 <br>방화벽 Sophos                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/db_encrypt" target="_self">
+                    DB 암호화                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/ransomware_package" target="_self">
+                    랜섬웨어 2중 완벽 백업 패키지                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/web_vaccine" target="_self">
+                    웹방화벽+서버백신                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/guardrock_utm" target="_self">
+                    UTM 통합보안방화벽                                      </a>
+                </li>
+                                <li>
+                  <a href="/customer/event/2020/200729_secure" target="_self">
+                    NO.1 안티바이러스 백신                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/malwarebytes/index" target="_self">
+                    Malwarebytes지능형공격방어                                      </a>
+                </li>
+                                <li>
+                  <a href="https://www.anycert.co.kr/ssl/ssl" target="_blank">
+                    SSL 인증 <i class='fas fa-external-link-alt'></i>                                      </a>
+                </li>
+                                <li>
+                  <a href="https://www.anycert.co.kr/codesign/intro_code" target="_blank">
+                    ActiveX 인증 <i class='fas fa-external-link-alt'></i>                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/sitelock" target="_self">
+                    SiteLock <br>멀웨어 탐지기                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/remote_server" target="_self">
+                    원격 서버/PC 점검                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/neverspam" target="_self">
+                    이메일 통합 보안<br>스팸차단                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/remotepc_access" target="_self">
+                    PC 원격접속                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/comcheck" target="_self">
+                    윈도우PC 최적화서비스                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/video_con" target="_self">
+                    화상회의 솔루션                                      </a>
+                </li>
+                                <li>
+                  <a href="http://www.trustvpn.co.kr/" target="_blank">
+                    VPN 전용회선 <i class='fas fa-external-link-alt'></i>                                      </a>
+                </li>
+                                <li>
+                  <a href="/ssl/hw_recovery" target="_self">
+                    데이터 복구                                      </a>
+                </li>
+                                              </ul>
+            </li>
+                        <li>
+              <ul>
+                <li class="more_m_c_title">
+                  문자/팩스/MS오피스                </li>
+                                                <li>
+                  <a href="/faxoffice/chatgpt/" target="_self">
+                    CHATGPT, GEMINI 구독                                      </a>
+                </li>
+                                <li>
+                  <a href="/faxoffice/kakao/product" target="_self">
+                    카카오 비즈메세지                                      </a>
+                </li>
+                                <li>
+                  <a href="/faxoffice/sms/" target="_self">
+                    SMS호스팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/faxoffice/webfax/" target="_self">
+                    웹팩스                                      </a>
+                </li>
+                                <li>
+                  <a href="http://thebillpro.co.kr" target="_blank">
+                    CMS 자동이체 <i class='fas fa-external-link-alt'></i>                                      </a>
+                </li>
+                                <li>
+                  <a href="/customer/event/2022/220211_pgservice_page" target="_self">
+                    PG & CMS 결제서비스                                      </a>
+                </li>
+                                <li>
+                  <a href="/faxoffice/smart_delivery/service" target="_self">
+                    스마트 방문 택배 서비스                                      </a>
+                </li>
+                                <li>
+                  <a href="https://moveit.kr " target="_blank">
+                    편의점 택배 예약 서비스                                      </a>
+                </li>
+                                <li>
+                  <a href="https://www.anycert.co.kr/corp/ipin" target="_blank">
+                    실명인증 솔루션 <i class='fas fa-external-link-alt'></i>                                      </a>
+                </li>
+                                <li>
+                  <a href="/faxoffice/gsuite/gsuite" target="_self">
+                    업무용 Gmail<br>+MS 오피스+Notion                                      </a>
+                </li>
+                                <li>
+                  <a href="/faxoffice/office/office_renew" target="_self">
+                    MS Office+Exchange Email                                      </a>
+                </li>
+                                <li>
+                  <a href="https://www.dotname.co.kr/faxoffice/cad/cad_info" target="_self">
+                    오토캐드 / 3D Max / 마야 / 인벤터                                      </a>
+                </li>
+                                              </ul>
+            </li>
+                        <li>
+              <ul>
+                <li class="more_m_c_title">
+                  디자인/홈페이지                </li>
+                                                <li>
+                  <a href="/faxoffice/adobe_cloud/adobe_cloud_price" target="_self">
+                    어도비 <br>포토샵/일러스트                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/bici/" target="_self">
+                    디자인 의뢰                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/agency/about" target="_self">
+                    홈페이지 제작                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/agency/maintenance" target="_self">
+                    홈페이지 유지보수                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/estimation" target="_self">
+                    무료상담                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/marketing/marketing/" target="_self">
+                    마케팅 컨설팅                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/voucher/production" target="_self">
+                    정부지원사업                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/youtube/index" target="_self">
+                    Youtube 프리미엄 / Apple TV                                      </a>
+                </li>
+                                <li>
+                  <a href="/homepage/netflix/info" target="_self">
+                    Netflix                                      </a>
+                </li>
+                                <li>
+                  <a href="https://dotname.freshdesk.com/support/home" target="_blank">
+                    문제해결 지식저장소 <i class='fas fa-external-link-alt'></i>                                      </a>
+                </li>
+                                              </ul>
+            </li>
+                      </ul>
+          <!-- <div class="more_m_close">
+            <img src="https://www.dotname.co.kr/assets/images/common/btn_more_close.png" alt="전체메뉴 보기" />
+          </div> -->
+        </div>
+        <!-- <div class="top_menu_ban">
+          <a href="/domain/new/search ">
+            <img src="https://www.dotname.co.kr/assets/images/event/2019/190808_login_shop_960.jpg" alt="shop 도메인 490원" />
+          </a>
+        </div> -->
+      </div>
+      <div class="login_prev">
+        <div class="container2">
+          <ul class="l_p">
+            <li class="l_p_one">
+              <h2>
+                로그인 없이 기간 연장
+              </h2>
+              <ul>
+                <li>
+                  <a href="/domain/renew/search">
+                    도메인 기간 연장
+                    <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i>
+                  </a>
+                  <p>로그인 없이 도메인을 연장할 수 있는 서비스입니다.</p>
+                </li>
+                <li>
+                  <a href="/hosting/renew/search">
+                    호스팅 기간 연장
+                    <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i>
+                  </a>
+                  <p>로그인 없이 호스팅을 연장할 수 있는 서비스입니다.</p>
+                </li>
+                <li>
+                  <a href="/domain/renew/expire_svc">
+                    서비스 잔여기간 확인
+                    <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i>
+                  </a>
+                  <p>고객님의 도메인과 호스팅의 잔여 기간을 확인합니다.</p>
+                </li>
+              </ul>
+            </li>
+            <li class="l_p_login">
+              <h2>회원가입</h2>
+              <a href="https://sso.dotname.co.kr/join">
+                내 계정 만들기
+              </a>
+              <p>
+                닷네임코리아를 처음 이용하시나요?<br />
+                지금 가입하시고 5,000포인트 받아가세요.
+              </p>
+              <h3 class="social_login_tit">
+                10초만에 회원가입 / 소셜 로그인
+              </h3>
+              <div>
+                <a href="https://sso.dotname.co.kr/signin" target="_blank" data-type="naver">
+                  <img src="https://www.dotname.co.kr/assets/images/common/login_naver.png" alt="네이버 로그인" />
+                </a>
+                <a class="sns_login" style="cursor:pointer;" data-type="facebook">
+                  <img src="https://www.dotname.co.kr/assets/images/common/login_facebook.png" alt="페이스북 로그인" />
+                </a>
+                <a class="sns_login" style="cursor:pointer;" data-type="kakao">
+                  <img src="https://www.dotname.co.kr/assets/images/common/login_kakao.png" alt="카카오 로그인" />
+                </a>
+                <a class="sns_login" style="cursor:pointer;" data-type="google">
+                  <img src="https://www.dotname.co.kr/assets/images/common/login_google.png" alt="구글 로그인" />
+                </a>
+              </div>
+            </li>
+            <li class="l_p_login">
+              <h2>
+                닷네임코리아 로그인
+              </h2>
+              <a href="https://sso.dotname.co.kr">
+                로그인
+              </a>
+              <p>
+                닷네임코리아 계정이 있으신가요?<br />
+                <a class="find_account" href="https://sso.dotname.co.kr/find_id">
+                  아이디 찾기
+                </a>
+                <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i>
+                &nbsp;&nbsp;
+                <a class="find_account" href="https://sso.dotname.co.kr/find_pw">
+                  비밀번호 찾기
+                </a>
+                <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i><br />
+                <span style="display:inline-block;margin-top:8px">
+                  계정을 찾을 수 없으신가요?<br />
+                  <a class="find_account" href="https://sso.dotname.co.kr/find_id_restore">
+                    계정 찾기 신청하기
+                  </a>
+                  <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i>
+                </span>
+                <span style="display:inline-block;margin-top:8px">
+                  이메일만으로 문의를 하고 싶으신가요?<br />
+                  <a class="find_account" href="/customer/ticket/email">
+                    로그인 없이 1:1문의
+                  </a>
+                  <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color:#572f99"></i>
+                </span>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <!-- <div class="top_menu_ban">
+          <a href="/domain/new/search">
+            <img src="https://www.dotname.co.kr/assets/images/event/2019/190808_login_shop_960.jpg" alt="shop 도메인 490원" />
+          </a>
+        </div> -->
+      </div>
+      <div class="login_next">
+        <div class="container2">
+          <ul class="l_n" style="width:880px">
+            <li style="width:440px;">
+              <h2>
+                도메인 관리
+              </h2>
+              <ul>
+                <li style="width:100%">
+                  <p style="font-size:16px; line-height: 2;">
+                    <span class="b_t">
+                      도메인
+                    </span>
+                    <span class="book">
+                      0건
+                    </span>
+                    <a href="//domain.dotname.co.kr/">관리</a>
+                  </p>
+                </li>
+                <li style="width:100%">
+                  <p style="font-size:16px; line-height: 2;">
+                    <span class="b_t">
+                      무료 메일
+                    </span>
+                    <span class="book">
+                      0건
+                    </span>
+                    <a href="//domain.dotname.co.kr/mail_forward">
+                      관리
+                    </a>
+                  </p>
+                </li>
+                <li style="width:100%">
+                  <h3 class="c_p">
+                    <a href="//domain.dotname.co.kr/" style="color:#572f99">
+                      도메인 관리로 이동
+                      <i class="fas fa-long-arrow-alt-right c_p" style="color: #572f99;" aria-hidden="true"></i>
+                    </a>
+                  </h3>
+                  <p class="l_n_t">보유중인 도메인과 부가서비스를 관리하실 수 있습니다.</p>
+                </li>
+              </ul>
+            </li>
+            <li style="width:440px;">
+              <h2>
+                호스팅 관리
+              </h2>
+              <ul>
+                <li style="width:100%">
+                  <p style="font-size:16px; line-height: 2;">
+                    <span class="b_t">
+                      호스팅
+                    </span>
+                    <span class="book">
+                      0건
+                    </span>
+                    <a href="//hosting.dotname.co.kr">
+                      관리
+                    </a>
+                  </p>
+                </li>
+                <li style="width:100%">
+                  <p style="font-size:16px; line-height: 2;">
+                    <span class="b_t">
+                      무료 홈페이지
+                    </span>
+                    <span class="book">
+                      0건
+                    </span>
+                    <a href="http://www.sitenow.co.kr/about/sitebuilder">
+                      관리
+                    </a>
+                  </p>
+                </li>
+                <li style="width:100%">
+                  <h3 class="c_p">
+                    <a href="//hosting.dotname.co.kr" style="color:#572f99">
+                      호스팅 관리로 이동
+                      <i class="fas fa-long-arrow-alt-right c_p" aria-hidden="true" style="color: #572f99;"></i>
+                    </a>
+                  </h3>
+                  <p class="l_n_t">
+                    보유중인 모든 호스팅을 관리하실 수 있습니다.
+                  </p>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h2>SMS / 웹팩스 / 카카오 비즈메세지 관리</h2>
+              <ul>
+                <li>
+                  <h3 class="c_p" id="sms_login" style="cursor:pointer; color: #572f99;">
+                    SMS 호스팅 로그인
+                    <i class="fas fa-long-arrow-alt-right c_p" style="color: #572f99;" aria-hidden="true"></i>
+                  </h3>
+                  <p class="l_n_t">
+                    보유중인 SMS 호스팅을 관리하실 수 있습니다.
+                  </p>
+                </li>
+                <li>
+                  <h3 class="c_p" id="fax_login" style="cursor:pointer; color: #572f99;">
+                    웹팩스 로그인
+                    <i class="fas fa-long-arrow-alt-right c_p" style="color: #572f99;" aria-hidden="true"></i>
+                  </h3>
+                  <p class="l_n_t">
+                    보유 중인 웹팩스를 관리하실 수 있습니다.
+                  </p>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <h3 class="c_p" id="bizmessage_login" style="cursor:pointer; color: #572f99;">
+                    카카오 비즈메세지 관리
+                    <i class="fas fa-long-arrow-alt-right c_p" style="color: #572f99;" aria-hidden="true"></i>
+                  </h3>
+                  <p class="l_n_t">
+                    카카오 비즈메세지를 관리하실 수 있습니다.
+                  </p>
+                </li>
+                <li>
+
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <div class="mydot">
+            <h2>내 정보
+              <a href="/login/out" class="btn_s">
+                <i class="fa fa-sign-out-alt" aria-hidden="true"></i> 로그아웃
+              </a>
+            </h2>
+            <ul>
+              <li>
+                <p>
+                  <span class="b_t">
+                    도메인 이용권
+                    <a href="https://www.dotname.co.kr/customer/event/list?idx=342&this_page1="
+                      style="text-decoration: none;">(무이자)</a>
+                  </span>
+                  <span class="book">
+                    0원
+                  </span>
+                  <a href="/member/deposit/charge_dep">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    VIP 회원 할인
+                  </span>
+                  <span class="book">
+                                      </span>
+                  <a href="/member/premium">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    VIP 회원 문화혜택
+                  </span>
+                  <span class="book">
+
+                  </span>
+                  <a href="/customer/ducks/landing">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    닷네임 포인트
+                  </span>
+                  <span class="book">
+                    0원
+                  </span>
+                  <a href="/member/point">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    닷네임 캐쉬
+                  </span>
+                  <span class="book">
+                    0원
+                  </span>
+                  <a href="/member/point">
+                    관리
+                  </a>
+                </p>
+              </li>
+                           
+              <li>
+                <p>
+                  <span class="b_t">
+                    쿠폰
+                  </span>
+                  <span class="book">
+                    0장
+                  </span>
+                  <a href="/member/coupon">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    장바구니
+                  </span>
+                  <span class="book">
+                    개
+                  </span>
+                  <a href="/member/mycart/list">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    카드 전표
+                  </span>
+                  <span class="book">
+                    개
+                  </span>
+                  <a href="/member/payment/card">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <span class="b_t">
+                    세금계산서
+                  </span>
+                  <span class="book">
+                    개
+                  </span>
+                  <a href="/member/payment/tax">
+                    관리
+                  </a>
+                </p>
+              </li>
+              <li>
+                <button type="button" onclick="location.href='/member/payment'" onFocus="this.blur()">
+                  MY 닷네임
+                </button>
+                <button type="button" onclick="location.href='https://sso.dotname.co.kr/member_modify02'"
+                  onFocus="this.blur()">
+                  회원정보 변경
+                </button>
+              </li>
+              <li>
+                <div class="btn_customer">
+                  <a href="/customer/ticket" target="_black">
+                    <i class="fas fa-comment-dots" aria-hidden="true"></i>
+                    밀착 1:1 문의
+                  </a>
+                </div>
+                <div class="btn_customer">
+                  <a href="https://wikidocs.net/book/18798" target="_black">
+                    <i class="fa fa-cube" aria-hidden="true"></i>
+                    닷네임코리아 FAQ
+                  </a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- <div class="top_menu_ban">
+          <a href="/domain/new/search ">
+            <img src="https://www.dotname.co.kr/assets/images/event/2019/190808_login_shop_960.jpg" alt="shop 도메인 490원" />
+          </a>
+        </div> -->
+      </div>
+      <div id="header" style="position:absolute; left:50%; transform:translateX(-50%); top:0; z-index:-1;">
+                <div style="position: absolute; top: 53px; right:-130px; display: block;" id="event_right_banner">
+          <div>
+            <img src="https://www.dotname.co.kr/assets/images/common/quick_menu_new.png" alt="퀵메뉴" border="0" usemap="#Map_quickmenu" />
+            <map name="Map_quickmenu">
+              <area shape="rect" coords="2,38,82,121" href="/member/premium" alt="프리미엄 회원" onfocus="this.blur()" />
+              <area shape="rect" coords="4,128,84,216" href="/member/charge/" id="event_charge" alt="무료 충전소"
+                target="_blank" onfocus="this.blur()" />
+              <!-- 5,317,87,389 -->
+              <area shape="rect" coords="5,223,81,308" href="/customer/event/list?idx=295&this_page1=" id="event_snack"
+                alt="도메인 호스팅 이벤트" target="_blank" onfocus="this.blur()" />
+              <!-- 3,383,89,476 -->
+              <area shape="rect" coords="6,316,81,402" href="/customer/event/list?idx=157" id="event_fuji"
+                alt="office365 최저가 이벤트" target="_blank" onfocus="this.blur()" />
+              <!-- 3,478,90,553 -->
+              <area shape="rect" coords=6,410,80,480" href="/customer/event/movie/220223_movie_event" id="event_movie"
+                alt="영화이벤트" target="_blank" onfocus="this.blur()" />
+              <!-- 3,478,90,553 -->
+              <area shape="rect" coords="5,485,80,553" onclick="window.scrollTo(0,0);" alt="탑메뉴" onfocus="this.blur()"
+                style="cursor: pointer;" />
+            </map>
+          </div>
+          <div>
+            <img src="https://www.dotname.co.kr/assets/images/event/2021/220120_free_charge_590.jpg" alt="무료 충전소"
+              style="z-index:1000; position:absolute; top: 132px; right: 100px;display:none;" id="pop_event_charge" />
+
+            <img src="https://www.dotname.co.kr/assets/images/event/2022/221124_ms_office_big_sale_370.jpg" alt="office365 이벤트"
+              style="z-index:1000; position:absolute; top: 299px; right: 100px;display:none;" id="pop_event_fuji" />
+          </div>
+          <div class="btn_yellowid" id="KaKa" style="text-align: center ;margin-top:5px;">
+            <a href="#" onClick="window.open('/m','ypop','width=340, height=433');">
+              <img src="https://www.dotname.co.kr/assets/images/common/kakao_yellowid_02_new.png" />
+            </a>
+          </div>
+          <!-- Talk Talk Banner Script start -->
+          <script type="text/javascript" src="https://partner.talk.naver.com/banners/script"></script>
+          <style>
+            .talk_banner_preview {
+              padding: 10px !important;
+            }
+
+            .talk_banner_preview span {
+              float: left;
+            }
+
+            .talk_banner_preview em {
+              float: right;
+            }
+          </style>
+          <div class="talk_banner_div" data-id="50038" style="margin-top:15px;"></div>
+          <!-- Talk Talk Banner Script end -->
+        </div>
+        <!-- //event_right_banner-->
+            </header>
+        <div id="container">
+            <section class="new_widget middle">
+    <div class="edge_box">
+        <div class="top_toggle_btn">
+            <div class="mod_change">
+                <span class="closer"><p></p></span>
+                <span class="middle"><p></p></span>
+                <span class="full"><p></p></span>
+            </div>
+            <div class="profile">
+                <span>
+                    L                </span>
+            </div>
+        </div>
+
+        <div class="widget_guide">
+            <div>Guide</div>
+            <p class="t"><span></span>위젯닫기</p>
+            <p class="t"><span></span>퀵메뉴 위젯 열기</p>
+            <p class="t"><span></span>전체메뉴 보기</p>
+        </div>
+    
+        <div class="widget_main_menu">
+            <ul>
+                <li data-url="domain" onclick="location.href='/domain/new/search'"><i class="fas fa-globe"></i></li>
+                <li data-url="hosting" onclick="location.href='/hosting/web/product'"><i class="fas fa-server"></i></li>
+                <li data-url="idc" onclick="location.href='/idc/app/product'"><i class="fas fa-cloud"></i></li>
+                <li data-url="ssl" onclick="location.href='/ssl/cdn'"><i class="fas fa-shield-alt"></i></li>
+                <li data-url="faxoffice" onclick="location.href='/faxoffice/office/office_renew'"><i class="fas fa-sms"></i></li>
+                <li data-url="customer" onclick="location.href='/customer/ticket'"><i class="fas fa-headset"></i></li>
+            </ul>
+        </div>
+    
+        <div class="customer_center">
+            <span class="dotbots">D</span>
+            <span class="naver">N</span>
+            <span class="kakao" onclick="$('#popup_kakao').fadeIn();">K</span>
+            <p class="guide_open"> <i class="fas fa-exclamation-circle"></i> 위젯 가이드 </p>
+        </div>
+    </div>
+    <div class="right_menu">
+        <ul>
+                            <li class="sub_menu_01" data-nums="0">
+                  <!-- <a href="/customer/faq/list" target="_self" data-url="^/customer/faq/"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        자주하는 질문                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                                        <li>
+                            <a href="/customer/faq/list" target="_self" data-url="^/customer/faq/">
+                                자주하는 질문                                 
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                            <li class="sub_menu_01" data-nums="1">
+                  <!-- <a href="/customer/ticket" target="_self" data-url="^/customer/(qna|ticket)"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        1:1 문의                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                    <li>
+                                <a href="/customer/ticket" target="_self" data-url="^/customer/ticket$">
+                                    1:1 문의하기                                </a>
+                            </li>
+                                                    <li>
+                                <a href="/customer/qna/list" target="_self" data-url="^/customer/qna/list">
+                                    (구) 1:1 문의내역                                </a>
+                            </li>
+                                                                    </ul>
+                </li>
+                            <li class="sub_menu_01" data-nums="2">
+                  <!-- <a href="/customer/support/contactus2" target="_self" data-url="^/customer/support/contactus"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        신규상품 신청                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                                        <li>
+                            <a href="/customer/support/contactus2" target="_self" data-url="^/customer/support/contactus">
+                                신규상품 신청                                 
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                            <li class="sub_menu_01" data-nums="3">
+                  <!-- <a href="/customer/notice/list" target="_self" data-url="^/customer/notice"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        공지사항                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                                        <li>
+                            <a href="/customer/notice/list" target="_self" data-url="^/customer/notice">
+                                공지사항                                 
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                            <li class="sub_menu_01" data-nums="4">
+                  <!-- <a href="/customer/media/list" target="_self" data-url="^/customer/media"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        언론 속의 닷네임                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                                        <li>
+                            <a href="/customer/media/list" target="_self" data-url="^/customer/media">
+                                언론 속의 닷네임                                 
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                            <li class="sub_menu_01" data-nums="5">
+                  <!-- <a href="/customer/event/event_listup" target="_self" data-url="^/customer/event/"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        이벤트 존                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                                        <li>
+                            <a href="/customer/event/event_listup" target="_self" data-url="^/customer/event/">
+                                이벤트 존                                 
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                            <li class="sub_menu_01" data-nums="6">
+                  <!-- <a href="/customer/support/remote" target="_self" data-url="^/customer/support/remote"> -->
+                    <div style="display:flex; justify-content: center; align-items:center">
+                        원격기술지원                         
+                    </div>
+                  <!-- </a> -->
+                                      <ul>
+                                                                        <li>
+                            <a href="/customer/support/remote" target="_self" data-url="^/customer/support/remote">
+                                원격기술지원                                 
+                            </a>
+                        </li>
+                                            </ul>
+                </li>
+                      </ul>
+
+
+    </div>
+    <div class="sub_menu">
+        <ul data-set="domain">
+            <li data-url="transfer" data-endpoint="search" onclick="location.href='/domain/transfer/search'"> 기관이전 </li>
+            <li data-url="transfer" data-endpoint="status" onclick="location.href='/domain/transfer/status'"> 기관이전 진행 현황 </li>
+            <li data-url="new" data-endpoint="search" onclick="location.href='/domain/new/search'"> 등록 </li>
+            <li data-url="whois" data-endpoint="search" onclick="location.href='/domain/whois/search'"> 정보검색 </li>
+            <li data-url="new" data-endpoint="services" onclick="location.href='/domain/new/services'"> 등록비용 </li>
+            <li data-url="renew" data-endpoint="search" onclick="location.href='/domain/renew/search'"> 기간연장 </li>
+            <li data-url="estimate"  onclick="location.href='/domain/estimate'"> 견적서 </li>
+            <li data-url="reservation"  onclick="location.href='/domain/reservation'"> 예약/대행 </li>
+            <li data-url="auction" data-endpoint="price" onclick="location.href='/domain/auction/price'"> 경매 </li>
+        </ul>
+        <ul data-set="hosting">
+            <li data-url="nocode" data-endpoint="product" onclick="location.href='/hosting/nocode/product'"> Code Free Hosting </li>
+            <li data-url="web" data-endpoint="product" onclick="location.href='/hosting/web/product'"> 웹 호스팅 </li>
+            <li data-url="db" data-endpoint="product" onclick="location.href='/hosting/db/product'"> DB 호스팅 </li>
+            <li data-url="image" data-endpoint="product" onclick="location.href='/hosting/image/product'"> 이미지 호스팅 </li>
+            <li data-url="free" data-endpoint="webhosting" onclick="location.href='/hosting/free/webhosting'"> 무료 호스팅 </li>
+            <li data-url="renew" data-endpoint="search" onclick="location.href='/hosting/renew/search'"> 기간연장 </li>
+            <li data-url="estimate"  onclick="location.href='/hosting/estimate'"> 견적서 </li>
+        </ul>
+        <ul data-set="idc">
+            <li data-url="private" data-endpoint="product" onclick="location.href='/idc/private/product'"> 클라우드 VPS 서버 </li>
+            <li data-url="custom" data-endpoint="customserver" onclick="location.href='/idc/custom/customserver'"> 맞춤형 서버 </li>
+            <li data-url="app" data-endpoint="product" onclick="location.href='/idc/app/product'"> APP 클라우드 서버 </li>
+            <li data-url="amazon_cloud" data-endpoint="product" onclick="location.href='/idc/amazon_cloud/product'"> 아마존 클라우드 컴퓨팅 </li>
+            <li data-url="estimation" data-endpoint="info" onclick="location.href='/idc/estimation/info'"> 서버 호스팅 </li>
+            <li data-url="outsourcing" onclick="location.href='/idc/outsourcing'"> 서버 관리 대행 </li>
+        </ul>
+        <ul data-set="ssl">
+            <li data-url="cdn" onclick="location.href='/ssl/cdn'"> DDos 방어 / CDN </li>
+            <li data-url="cloud_protection" onclick="location.href='/ssl/cloud_protection'"> 통합 보안 호스팅 </li>
+            <li data-url="web_vaccine" onclick="location.href='/ssl/web_vaccine'"> 방화벽 + 서버 백신 </li>
+            <li data-url="remote_server" onclick="location.href='/ssl/remote_server'"> 원격 점검 서비스 </li>
+        </ul>
+        <ul data-set="faxoffice">
+            <li data-url="kakao" data-endpoint="product" onclick="location.href='/faxoffice/kakao/product'"> 카카오 비즈메세지 </li>
+            <li data-url="sms" onclick="location.href='/faxoffice/sms'"> SMS 호스팅 </li>
+            <li data-url="webfax" onclick="location.href='/faxoffice/webfax'"> 웹팩스 호스팅 </li>
+            <li data-url="gsuite" data-endpoint="gsuite" onclick="location.href='/faxoffice/gsuite/gsuite'"> Work Tools </li>
+            <li data-url="office" data-endpoint="office_renew" onclick="location.href='/faxoffice/office/office_renew'"> MS OFFICE </li>
+        </ul>
+        <ul data-set="customer">
+            <li data-url="ticket" onclick="location.href='/customer/ticket'"> 1:1 문의 </li>
+            <li data-url="support" data-endpoint="contactus2" onclick="location.href='/customer/support/contactus2'"> 신규상품 상담신청 </li>
+            <li data-url="notice" data-endpoint="list" onclick="location.href='/customer/notice/list'"> 공지사항 </li>
+            <li data-url="event" data-endpoint="event_listup" onclick="location.href='/customer/event/event_listup'"> 이벤트 </li>
+            <li data-url="support" data-endpoint="remote" onclick="location.href='/customer/support/remote'"> 원격기술지원 </li>
+        </ul>
+        <ul data-set="member">
+            <li onclick="location.href='/member/order'"> 서비스 사용 현황 </li>
+            <li onclick="location.href='/member/payment'">결제관리</li>
+            <li onclick="location.href='/member/payment/payment'">결제 내역</li>
+            <li onclick="location.href='/member/payment/vbank'">입금 대기 내역</li>
+            <li onclick="location.href='/member/payment/tax'">세금계산서 발급확인</li>
+            <li onclick="location.href='/member/payment/taxinfo'">세금계산서 정보관리</li>
+            <li onclick="location.href='/member/payment/tax_request_list'">세금계산서 수동요청 내역</li>
+            <li onclick="location.href='/member/payment/receipt'">현금영수증 발급확인</li>
+            <li onclick="location.href='/member/payment/card'">카드전표 발급</li>
+            <li onclick="location.href='/member/mycart/list'">도메인 장바구니</li>
+            <li onclick="location.href='/member/premium'">프리미엄 회원 안내</li>  
+            <li onclick="location.href='/member/deposit/charge_dep'">도메인 이용권 관리</li>  
+            <li onclick="location.href='/member/point'">포인트 및 캐쉬 충전/사용 내역</li>  
+            <li onclick="location.href='https://sso.dotname.co.kr/member_modify02'">회원정보수정</li>  
+        </ul>
+    </div>
+</section>
+
+<div id="popup_kakao" style="display:none;position: absolute; z-index: 99999999; top: 3%; left: 200px;">
+    <img src="/assets/images/support/tel/img/kakao_popup_renew.jpg" alt="카카오톡 팝업" border="0" usemap="#Map_kakao"
+      style="position: absolute;" />
+    <map name="Map_kakao" id="Map_kakao">
+      <area shape="rect" coords="576,11,596,30" href="#" onclick="$('#popup_kakao').fadeOut();" />
+      <area shape="rect" coords="55,438,297,531" href="http://goto.kakao.com/@dotnamekorea" target="_blank" />
+      <area shape="rect" coords="311,438,551,530" href="http://goto.kakao.com/@%ED%98%B8%EC%8A%A4%ED%8C%85vpn"
+        target="_blank" />
+    </map>
+</div>
+
+<script>
+
+
+    $(document).ready(function() {
+        const pathSegments = window.location.pathname.split('/');
+        
+        $(".widget_main_menu li").each(function() {
+            const listItem = $(this);
+            const listItemUrl = listItem.data('url');
+            if (listItemUrl === pathSegments[1]) {
+                listItem.addClass('active');
+                $(".new_widget .sub_menu ul").hide();
+                $(".new_widget .sub_menu ul[data-set='" + pathSegments[1] + "']").show();
+                $(".new_widget .sub_menu ul[data-set='" + pathSegments[1] + "'] li").each(function() {
+                    const listItem2 = $(this);
+                    const listItemUrl2 = listItem2.data('url');
+                    const listItemEndpoint = listItem2.data('endpoint');
+
+                    if (listItemUrl2 == pathSegments[2] && listItemEndpoint == pathSegments[3]) {
+                        listItem2.addClass('active');
+                    } else {
+                        listItem2.removeClass('active');
+                    }
+                });
+
+            } else if(pathSegments[1] == 'member'){
+                $(".new_widget .sub_menu ul[data-set='member']").show();
+                $(".new_widget .sub_menu").offset({ top: 240 });
+            } else {
+                listItem.removeClass('active');
+            }
+        });
+
+
+        function setSubMenuTop(item) {
+            if (item.length != 0){
+                const itemTop = item.offset().top;
+                const itemUrl = item.data('url');
+                $(".new_widget .sub_menu").offset({ top: itemTop });
+                $(".new_widget .sub_menu ul").hide();
+                $(".new_widget .sub_menu ul[data-set='" + itemUrl + "']").show();
+            }
+        }
+
+        $(".widget_main_menu li").mouseover(function() {
+            setSubMenuTop($(this));
+        });
+
+
+        setSubMenuTop($(".widget_main_menu li.active"));
+
+    });
+
+
+    $(".profile").on('click',()=>{location.href="/member/payment"})
+
+    function handleMenu(action) {
+        if(action === 'closer') {
+            $('.new_widget').addClass('closers');
+            $(".widget_main_menu").slideUp();
+            $(".customer_center").slideUp();
+            $(".new_widget .sub_menu").slideUp();
+            $('.new_widget').removeClass('full');
+            setTimeout(()=>{$(".right_menu").removeClass('open');},300)
+            
+        } else if(action === 'middle') {
+            $('.new_widget').removeClass('closers');
+            $(".widget_main_menu").slideDown();
+            $(".customer_center").slideDown();
+            $(".new_widget .sub_menu").slideDown();
+            $('.new_widget').removeClass('full');
+            setTimeout(()=>{$(".right_menu").removeClass('open');},300)
+        } else if(action === 'full') {
+            $('.new_widget').removeClass('closers');
+            $(".widget_main_menu").slideDown();
+            $(".customer_center").slideDown();
+            $(".new_widget .sub_menu").hide();
+            $(".right_menu").addClass('open');
+            $('.new_widget').addClass('full');
+            $('.widget_guide').hide();
+        }
+    }
+
+    $(".mod_change").on('click', '.closer', function() {
+        handleMenu('closer');
+    });
+
+    $(".mod_change").on('click', '.middle', function() {
+        handleMenu('middle');
+    });
+
+    $(".mod_change").on('click', '.full', function() {
+        handleMenu('full');
+    });
+
+    $(".sub_menu_01").each( (k,v)=> {
+        $(v).on('click',()=>{
+            $(v).children("ul").toggleClass('active');
+        })
+    
+})
+
+
+$(".dotbots").on('click',()=>{
+    $(".dotbot").slideDown().show();
+    chatbot();
+})
+
+$(".naver").on('click',()=>{
+    window.open('https://talk.naver.com/ct/wcdvg5', '_blank');
+})
+
+
+
+$(document).ready(function() {
+    // 초기 실행
+    checkResolution();
+
+    // 창 크기가 변경될 때마다 실행
+    $(window).resize(function() {
+        checkResolution();
+    });
+});
+
+function checkResolution() {
+    var screenWidth = $(window).width();
+    
+    // 해상도가 1730px 미만인 경우
+    if (screenWidth < 1730) {
+        handleMenu('closer');
+    } 
+    // 그 외의 경우
+    else {
+        handleMenu('middle');
+    }
+}
+
+$(document).ready(function() {
+    var lastVisit = localStorage.getItem('lastVisit');
+
+    if (!lastVisit) {
+        $('.widget_guide').show();
+    } else {
+        var now = new Date().getTime();
+        var elapsedHours = (now - lastVisit) / (1000 * 60 * 60);
+
+        if (elapsedHours >= 24) {
+            $('.widget_guide').show();
+        } else {
+            $('.widget_guide').hide();
+        }
+    }
+    localStorage.setItem('lastVisit', new Date().getTime());
+
+    $(".guide_open").click(function() {
+        $('.widget_guide').toggle();
+    });
+    
+});
+</script>
+
+<style>
+  center b {
+    color: #5a00ef;
+  }
+
+  .eventzone_bottom b {
+    color: #5a00ef;
+  }
+
+  .ContentsBox table.event_menu {
+    width: 730px;
+  }
+</style>
+<div id="body" class="event_contents_inner">
+  <h2 style="margin-bottom:10px;">
+    <img src="/assets/images/customer/eventzone_maintitle.gif" />
+  </h2>
+  <div class="ContentsBox">
+    <div class="event" style="width:100%; height:auto; padding:0; margin:0;">
+            <iframe style="width:100%; margin-bottom:10px; border:0;" id="event_here" frameborder="0" scrolling="no"
+        marginwidth='0' marginheight='0' src="2017/171212_new_vps_hosting.html" onload="autoResize(this)"></iframe>
+      <script type="text/javascript">
+        // iframe resize
+        function autoResize(i) {
+          var iframeHeight = (i).contentWindow.document.body.scrollHeight;
+
+          (i).height = iframeHeight + 20;
+
+          if ("n" == "y" && "1" != "") {
+            parent.location.href = '/customer/event/list?idx=196&needlogin=ok';
+          }
+        }
+      </script>
+
+          </div>
+
+    
+    <!--이벤트 리스트-->
+    <ul class="event_list">
+                </ul>
+    <div class="go_list_btn_wrap">
+      <a href='/customer/event/event_listup'>
+        <button class="go_list_btn">
+          목록 보기
+        </button>
+      </a>
+    </div>
+  </div>
+</div>      <!--left/center/right-->
+                  <!--//site_feedback_area-->
+    </div>
+  </div>
+  <!--//container-->
+    <footer class="cl">
+    <div class="f_header">
+      <div class="container2">
+        <ul>
+          <li>
+            <a href="/assets/images/dotnamekoera_introduce.pdf" target="_blank">
+              회사 소개
+            </a>
+          </li>
+          <li>
+            <a href="/agreement/dotname/member">
+              회원 약관
+            </a>
+          </li>
+          <li>
+            <a href="/agreement/settlement">
+              분쟁조정정책
+            </a>
+          </li>
+          <li>
+            <a href="/agreement/privacy">
+              개인정보처리방침
+            </a>
+          </li>
+
+          <!-- <li>
+            <a href="http://corp.dotname.co.kr" target="_blank">
+              닷네임코리아 소개
+            </a>
+            <a href="/ci" target="blank">
+              파트너 프로그램
+            </a>
+          </li> -->
+          <li>
+            <a href="https://wikidocs.net/book/18798" class="faq" target="_blank">
+              닷네임코리아 FAQ
+            </a>
+          </li>
+          <li>
+            <a href="/customer/event/list" target="_blank">
+              진행중인 이벤트
+            </a>
+          </li>
+          <li>
+            <a href="https://www.dotname.co.kr/customer/media/list" target="blank">
+              언론 속 닷네임
+            </a>
+          </li>
+          <!-- <li>
+            <a href="/member/charge/">
+              무료 충전소
+            </a>
+          </li> -->
+          <!-- <li>
+            <a href="/ci">
+              제휴사모집
+            </a>
+          </li> -->
+        </ul>
+      </div>
+    </div>
+    <div class="container2">
+      <ul class="f_bottom">
+        <li>
+          <a href="/">
+            <img src="https://www.dotname.co.kr/assets/images/common/new_logo_white.svg" width="130" height="28" border="0" alt="logo">
+          </a>
+          <p class="f_text">
+            주식회사 닷네임코리아 (Dotname Korea Corp.)<br>
+            사업자등록번호 : 214-86-57203 (강남-10168) | 대표이사 강희승<br>
+            소재지 : 대한민국 서울 강남구 도곡로 112  2층 / 8 The Green, Dover, DE 19901 USA<br><br>
+            Abuse Report : <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1a7b786f697f5a7e756e747b777f7175687f7b34797577">[email&#160;protected]</a> | Organization ID : HS491-KR<br><br>
+
+            <a href="/customer/ticket/">밀착 1:1 문의(15~35분 답변)</a> | <a href="https://talk.naver.com/ct/wcdvg5" target=_blank>채팅문의(30분~45분 소요)</a> | <a href="/cdn-cgi/l/email-protection#40242f2d21292e00242f342e212d252b2f3225216e232f2d">메일 문의(1~2시간소요) 중복 문의시 늦은 접수건으로 처리됩니다.</a>
+            <br>
+            <a href="/customer/support/tel">문자 010-3823-9113 (35분~55분 대기) </a> | 전화 0507-1485-2410 (25~35분) | 050-6050-0036 (45~55분 소요) |  <!--FAX 0504-985-9800 |--> <a href="/customer/support/tel">유료 긴급기술지원 060-300-2254 (5~10분)</a>
+            <br> 전화 문의시 도메인명, 회원아이디, 네임서버, 이메일 주소등 본인 확인 및 정보 확인 및 내용 확인 절차시 5~10분이 소요되므로 1:1문의가 가장 빠릅니다.
+          </p>
+          <p class="copy">
+            Copyright ⓒ 2026 <a href="https://corp.dotname.co.kr" target="_blank">Dotname Korea Corp</a>. All Rights Reserved.<br>
+            <a href="/agreement/privacy" target="_blank">개인정보처리방침</a> 및 <a href="/agreement/dotname/member" target="_blank">이용약관</a>
+            <!-- Abuse Report : <a href="mailto:abuse@dotnamekorea.com">abuse@dotnamekorea.com</a> | ORG-ID : HS491-KR<br> -->
+          </p>
+        </li>
+        <li>
+          <div class="f_sns">
+            <ul>
+              <li>
+                <a href="https://www.facebook.com/dotnamekorea/" onFocus="this.blur()" target="_blank">
+                  <img src="https://www.dotname.co.kr/assets/images/common/f_facebook.png" width="45" height="45" border="0" alt="페이스북 아이콘" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCFWeAvuKHxk86ovdDJRhKRw" onFocus="this.blur()"
+                  target="_blank">
+                  <img src="https://www.dotname.co.kr/assets/images/common/f_youtube.png" width="45" height="45" border="0" alt="유튜브 아이콘" />
+                </a>
+              </li>
+              <li>
+                <a href="http://www.sitenow.co.kr/?" onFocus="this.blur()" target="_blank">
+                  <img src="https://www.dotname.co.kr/assets/images/common/f_sitenow.png" width="45" height="45" border="0" alt="사이트나우 아이콘" />
+                </a>
+              </li>
+              <li>
+                <a href="https://blog.naver.com/eaststudy" onFocus="this.blur()" target="_blank">
+                  <img src="https://www.dotname.co.kr/assets/images/common/f_blog.png" width="45" height="45" border="0" alt="네이버 블로그 아이콘" />
+                </a>
+              </li>
+              <li>
+                <select id="family" onchange="window.open(value,'_blank');">
+                  <option value="/">
+                    닷네임코리아
+                  </option>
+                  <option value="https://www.anycert.co.kr">
+                    애니서트
+                  </option>
+                  <option value="http://sitenow.co.kr">
+                    Sitenow
+                  </option>
+                  <option value="http://www.storenow.co.kr">
+                    Storenow
+                  </option>
+                  <!--
+                  <option value="https://www.taxnow.kr/">
+                    Taxnow
+                  </option>
+                    -->
+                  <option value="http://www.serverworks.pro/">
+                    Serverworks
+                  </option>
+                  <option value="http://www.trustvpn.co.kr">
+                    Trust VPN
+                  </option>
+                  <option value="http://www.nowtrust.net/">
+                    NowTrust
+                  </option>
+                  <option value="http://www.gvc.or.kr/">
+                    GVC
+                  </option>
+                </select>
+              </li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </footer>
+  </div>
+  <!-- <div class="fixedbar" style="display:none;">
+    <div class="floatingbox">
+      <span class="product-name">
+        신규 상품 신청 상담이 필요하신 분은 오른쪽 문의에 남겨 주세요.
+        <a href="/customer/ticket/" style="text-decoration:underline;color:#14ffca;">
+          [일반 문의는 여기를 클릭]
+        </a>
+        <span style="margin-left:10px;">
+          <img src="https://www.dotname.co.kr/assets/images/common/right11.png" style="width:19px;">
+        </span>
+      </span>
+    </div>
+  </div> -->
+  <!--fixedbar-->
+
+  <!-- 1:1문의 링크 버튼 (tawk.to 버튼은 chat.js 참고) -->
+    <!-- <div class="side_btn_service dotbotbtn" style="bottom:95px; right:25px">
+      <img src="https://www.dotname.co.kr/assets/images/main/chatbot.png" width="200px">
+    </div> -->
+
+    <!-- <div class="dotbot">
+      <div class="dotbot_title"> <p> Dotname Chat Bot <span>&#10005;</span> </p>  </div>
+      <div class="dotbot_chat"></div>
+    </div> -->
+    <a href="/customer/ticket" class="side_btn_service" style="left: 25px; right: auto; position: fixed;">
+      <img src="https://www.dotname.co.kr/assets/images/common/btn_service.png" alt="1:1문의" />
+    </a>
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cs.dotname.kr/widget.js" async></script>
+    <script>
+      (function() {
+        var chatIframe = document.getElementById('dotname-chat-iframe');
+        if (!chatIframe) return;
+
+        function sendPageInfo() {
+          if (!chatIframe.contentWindow) return;
+          chatIframe.contentWindow.postMessage({
+            type: 'PARENT_PAGE_INFO',
+            referrer: document.referrer,
+            href: location.href,
+            search: location.search
+          }, '*');
+        }
+
+        chatIframe.addEventListener('load', sendPageInfo);
+        if (chatIframe.contentDocument && chatIframe.contentDocument.readyState === 'complete') {
+          sendPageInfo();
+        }
+      })();
+    </script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3f5b5f99f7690d1',t:'MTc5MDEyNjI1OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
+
+<!-- AceCounter Log Gathering Script V.70.2012052201 -->
+<!--<script language='javascript'>
+  if (typeof HL_GUL == 'undefined') {
+    var HL_GUL = 'ngc7.nsm-corp.com';
+    var HL_GPT = '80';
+    var _AIMG = new Image();
+    var _bn = navigator.appName;
+    var _PR = location.protocol == "https:" ? "https://" + HL_GUL : "http://" + HL_GUL + ":" + HL_GPT;
+
+    if (_bn.indexOf("Netscape") > -1 || _bn == "Mozilla") {
+      setTimeout("_AIMG.src = _PR+'/?cookie';", 1);
+    } else {
+      _AIMG.src = _PR + '/?cookie';
+    };
+
+    document.writeln("<scr" + "ipt language='javascript' src='/assets/scripts/acecounter_V70.js'></scr" + "ipt>");
+  }
+</script>
+<noscript>
+  <img src='//ngc7.nsm-corp.com:80/?uid=CP5B37937013346&je=n&' border=0 width=0 height=0>
+</noscript>
+-->
+<!-- AceCounter Log Gathering Script End -->
+
+<!-- Google 리마케팅 태그 코드 -->
+<!--------------------------------------------------
+리마케팅 태그를 개인식별정보와 연결하거나 민감한 카테고리와 관련된 페이지에 추가해서는 안 됩니다. 
+리마케팅 태그를 설정하는 방법에 대해 자세히 알아보려면 다음 페이지를 참조하세요. 
+http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 972309554;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt=""
+      src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972309554/?value=0&amp;guid=ON&amp;script=0" />
+  </div>
+</noscript>
+</script>
+
+<script>
+  $(window).scroll(function () {
+    if ($(document).scrollTop() == 0) $('.fixedbar').fadeOut();
+    else $('.fixedbar').fadeIn();
+  });
+  $(document).ready(function () {
+    if (Math.floor(Math.random() * 2)) {
+      $(".Mr2").show();
+      $(".btn_point").hide();
+    } else {
+      $(".Mr2").hide();
+      $(".btn_point").show();
+    }
+  });
+
+  $(".dotbotbtn").on('click',()=>{
+    $(".dotbot").slideDown().show();
+    chatbot();
+  })
+  $(".dotbot_title p span").on('click',()=>{
+    $(".dotbot").slideUp();
+  })
+</script>
+<!--beusably 코드-->
+<script type="text/javascript">
+  (function (w, d, a) {
+    w.__beusablerumclient__ = {
+      load: function (src) {
+        var b = d.createElement("script");
+        b.src = src;
+        b.async = true;
+        b.type = "text/javascript";
+        d.getElementsByTagName("head")[0].appendChild(b);
+      }
+    };
+    w.__beusablerumclient__.load(a);
+  })(window, document, '//rum.beusable.net/script/b180913e151554u815/250f397127');
+</script>
+<!--beusably 코드-->
+<script src="https://www.dotname.co.kr/assets/scripts/site_feedback.js"></script>
+<script defer src="https://www.dotname.co.kr/assets/scripts/chatbot.js"></script>
+<script src="https://www.dotname.co.kr/assets/scripts/index_new.js"></script>
+<script src="https://www.dotname.co.kr/assets/scripts/common/common_domain.js"></script>
+<script src="https://www.dotname.co.kr/assets/scripts/function.js"></script>
+<script src="https://www.dotname.co.kr/assets/scripts/submenu.js"></script>
+<!--<script src="https://www.dotname.co.kr/assets/scripts/chat.js"></script>-->
+<script type="text/javascript" src="https://www.dotname.co.kr/assets/scripts/sns/facebook_login.js" charset="utf-8"></script>
+<script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://www.dotname.co.kr/assets/scripts/sns/naver_login.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://www.dotname.co.kr/assets/scripts/sns/sns_login.js" charset="utf-8"></script>
+<script type="text/javascript">
+  initMoving(document.getElementById("event_right_banner"), 53, 53, 400);
+</script>
+<script type="text/javascript" src="//wcs.pstatic.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "19b4d36d13bda50";
+if(window.wcs) {
+wcs_do();
+}
+</script>
+<!--0.0636s-->
