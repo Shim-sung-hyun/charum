@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <title>서비스 일시중단 안내</title>
+	    <style>
+			/*사이트 차단*/
+.index_wrap{padding:0; margin:0;}
+.index_wrap p{margin:0;}
+.index_header{background:#033075;}
+.index_header p{margin:0 auto; padding:9px 0; padding-left:35px; max-width:1280px; font-size:14px; letter-spacing: -0.28px; color:#fff; background:url(./ico_flag.svg) no-repeat center left;}
+.index_body{margin:0 auto; padding-bottom:80px; max-width: 1140px; text-align: center; min-height:auto;}
+.index_body .index_box{margin:0 auto; max-width:678px;}
+.index_body .index_box +.index_box{margin-top:48px; border-top:1px solid #e2e5eb; text-align: left;}
+.index_body .index_logo{margin:48px 0;}
+.index_body .index_tit{padding-top:88px; font-size:46px; color:#222; letter-spacing: -0.96px; font-weight: bold; line-height: 1.25; background:url(./ico_alarm.png) no-repeat center top;}
+.index_body .index_tit span{color:#006ae2;}
+.index_body .index_txt{margin-top:32px; color:#222; font-size: 22px; font-weight: bold; letter-spacing: -0.48px;}
+.index_body .index_txt_s{margin-top:8px; font-size:18px; color:#222; letter-spacing: -0.36px;}
+.index_body .index_info_box{margin-top:32px; padding:30px 40px; border-radius:16px; text-align: left; background:#f5f6f7;}
+.index_body .index_info_box ul{margin:0; padding:0; list-style-type:none; }
+.index_body .index_info_box ul li{display: flex; align-items: flex-start;font-size:18px; color:#222; letter-spacing: -0.46px; line-height: 1.33;}
+.index_body .index_info_box ul li+li{margin-top:8px;}
+.index_body .index_info_box ul li span+span{margin-left:16px;}
+.index_body .index_info_box ul li span:first-child{flex:none; position:relative; padding-left:12px; font-weight: bold;}
+.index_body .index_info_box ul li span:first-child:before{content:""; display:block; position:absolute; top:50%; transform:translateY(-50%); left:0; width:4px; height:18px; background:#2283f0;}
+.index_body .index_info_box .txt{margin-top:8px; font-size: 16px; color:#666; letter-spacing: -0.32px; line-height: 1.38;}
+.index_footer{display:flex; align-items:center; justify-content: space-between; margin:0 auto; padding-top:30px; padding-bottom:34px; max-width: 1140px; border-top:1px solid #e2e5eb;}
+.index_footer_info{display:flex; align-items:center; justify-content: space-between; width:490px;}
+.index_footer_info>span{display:inherit;}
+.index_footer_info div span{font-weight: bold; font-size:16px; color:#222; letter-spacing: -0.32px;}
+.index_footer_info div span + span{position:relative; margin-left:8px; padding-left:8px;}
+.index_footer_info div span + span:before{position:absolute; top:50%; left:0; transform:translateY(-50%); background:#ccc; width:1px; height:14px; content:"";}
+.index_footer_info div em{margin-left:8px; font-size:16px; color:#666; letter-spacing: -0.32px;}
+.index_footer .copyright{font-size:14px; letter-spacing: -0.28px; color:#838383;}
+.index_footer br{display:none;}
+.index_box_tit{margin:0; margin-top:48px; font-size:24px; color:#222; letter-spacing: -0.48px; font-weight: bold;}
+.tit_dot{position:relative; padding-left:12px; margin-top:40px; margin-bottom:12px; font-size:18px; font-weight: bold; letter-spacing: -0.54px; color:#222; line-height: 1.33;}
+.tit_dot:before{content:""; position:absolute; width:4px; height:4px; border-radius:50%; top:50%; left:0; transform:translateY(-50%); background:#444; }
+.index_table{border-top:1px solid #888; border-bottom:1px solid #888; }
+.index_table table{width:100%; border-spacing: inherit;}
+.index_table table th{border-right:1px solid #e2e5eb; background:#f5f6f7;}
+.index_table table th,
+.index_table table td{ padding:18px 24px; font-size:16px; font-weight:normal; color:#222; letter-spacing: -0.32px;}
+.index_table table tr+tr th,
+.index_table table tr+tr td{border-top:1px solid #e2e5eb;}
+.index_table table td a{color:#444; text-decoration: none;}
+.index_table table td a:hover,
+.index_table table td a:focus{text-decoration: underline;}
+@media only screen and (max-width: 910px){
+	.index_footer{padding:24px 20px;flex-flow:column;align-items: start;}
+	.index_footer_info{ flex-flow:column; align-items: start; width:inherit;}
+	.index_footer_info img{width:92px;}
+	.index_footer_info div{margin-top:24px;}
+	.index_footer .copyright{margin-top:8px;}
+	.index_footer br{display:block;}
+}
+
+@media only screen and (max-width: 805px){
+	.index_header{padding:0 16px;}
+	.index_header p{padding:8px 0; padding-left:25px; font-size:12px; background-size:22px;}
+	.index_body{padding-bottom:50px; min-height:inherit;}
+	.index_body .index_logo{margin:0; padding:15px 0; border-bottom:1px solid #e2e5eb;}
+	.index_body .index_logo img{width:109px;}
+	.index_body .index_tit{margin:0 20px; padding-top:96px;  font-size:28px; background-size:50px; background-position:center 30px;}
+	.index_body .index_txt{margin:0 20px; margin-top:30px; font-size:18px;}
+	.index_body .index_txt_s{margin:0 20px; margin-top:8px; font-size:16px;}
+	.index_body .index_info_box{margin-top:30px; padding:20px; border-radius: 0;}
+	.index_body .index_info_box ul li{font-size:16px;}
+	.index_body .index_info_box ul li span+span{display:block; margin-left:12px;}
+	.index_body .index_info_box .txt{margin-top:12px;}
+	.index_body .index_box +.index_box{margin:0 20px; margin-top:50px; border-top:0;}
+	.index_box_tit{margin-top:50px; font-size:20px;}
+	.tit_dot{margin-top:24px; margin-bottom:10px; font-size:18px;}
+	.index_table table th, .index_table table td{padding:17px 12px;}
+	
+
+	}
+	
+/*//사이트 차단*/
+		</style>
+	</head>
+    <body class="index_wrap">
+	    <div class="index_header">
+	        <p>이 누리집은 대한민국 공식 전자정부 누리집입니다.</p>
+	    </div>
+	
+	    <div class="index_body" style="min-height:auto;">
+	        <div class="index_box">				
+	            <div class="index_logo">
+					<!--
+	                <span>
+						<img src="./img-gov-logo.svg" alt="정부24">
+	                </span>
+					-->
+	            </div>
+	            <p class="index_tit" style="font-size: 40px;"><span>시스템 점검</span>(서비스 중단) 안내</p>
+	            <p class="index_txt">보다 안정적인 운영을 위한 시스템 점검을 진행합니다.</p>	            
+	            <p class="index_txt_s">점검 시간 중 서비스를 이용할 수 없으니 아래 일정을 확인해 주시기 바랍니다.</p>
+	            <div class="index_info_box">
+	                <ul> 
+	                    <li>
+	                        <span>점검 일시</span>
+	                        <span>2026.8.17.(월) 22:00 ~ 완료시까지</span>
+	                    </li>
+	                    <li>
+	                        <span>점검 사유</span>
+	                        <span>시스템 점검</span>
+	                    </li>	                    
+	                    <li>
+	                        <span>점검 대상</span>
+	                        <span>어린이, 외국인 사이트</span>
+	                    </li>
+	                    <li>
+	                        <span>영향서비스</span>
+	                        <span>작업기간 중 대상 서비스 이용 불가</span>
+	                    </li>
+	                </ul>
+	                <p class="txt">※ 작업 진행 상황에 따라 시간이 변동될 수 있습니다.</p>	      
+	                <p class="txt">※ 안정적인 시스템 운영을 위해 넓은 양해 구합니다.</p>
+					<p class="txt"><b>※ 모바일 앱도 작업 중으로 서비스 중단됩니다.</b></p>
+	            </div>
+	        </div>
+	    </div>
+	
+	    <div class="index_footer">
+	        <div class="index_footer_info">
+				<!--
+	            <span>
+	                <img src="./img-gov-logo.svg" alt="정부24">
+	            </span>
+				-->
+	            <div>
+	                <span>정부24 콜센터</span>
+	                <span>1588-2188</span>
+	                <em>(09:00 ~ 18:00 평일)</em>
+	            </div>
+	        </div>
+	
+			<p class="copyright">Copyright © Ministry of the Interior and Safety.<br> All Rights Reserved.</p>
+	    </div>
+	</body>
+</html>
